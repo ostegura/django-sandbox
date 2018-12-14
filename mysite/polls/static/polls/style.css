@@ -1,0 +1,29 @@
+body {
+	background: url("images/background.gif") repeat;
+}
+
+.content {
+	position: relative;
+	text-align: center;
+	width: 1080px;
+	margin: 150px auto;
+}
+
+li {
+	width: 350px;
+	margin: 0px auto;
+	padding: 10px 10px;
+	background-color: yellow;
+	text-align: center;
+	color: blue;
+	border-style: groove;
+}
+
+li a {
+	font-style: italic;
+	font-size: 36px;
+}
+
+li {
+	margin-bottom: 30px;
+}
