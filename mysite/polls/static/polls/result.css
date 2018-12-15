@@ -1,0 +1,23 @@
+body {
+	background: url("images/result.gif") repeat;
+}
+
+.content {
+	position: relative;
+	text-align: left;
+	margin: 100px auto;
+	padding-left: 20px;
+}
+
+h1 {
+	margin: 0px auto;
+	padding: 10px 10px;
+	text-align: center;
+	color: blue;
+}
+
+.content, h1 {
+	width: 255px;
+	background-color: yellow;
+	border-style: groove;
+}
